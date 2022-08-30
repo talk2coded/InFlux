@@ -1,0 +1,24 @@
+
+
+
+@media (max-width: 575.98px){
+    .header1{
+        font-size: 37px !important;
+    }
+
+    .ai{
+        height: 700px !important;
+    }
+
+    .pricing{
+        margin-top: -100px !important;
+    }
+
+    .dv{
+        max-width: 350px !important;
+    }
+    .section-title{
+        font-size: 44px !important;
+        font-weight: 400 !important;
+    }
+}
